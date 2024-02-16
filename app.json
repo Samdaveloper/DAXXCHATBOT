@@ -1,7 +1,7 @@
 {
   "name": "nexichat",
   "description": "A telegram bot",
-  "logo": "https://graph.org/file/0d3f394ebbf5e8488cb1d.jpg",
+  "logo": "https://telegra.ph/file/ab2f1cd00be89dbbbc163.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/DAXXTEAM/DAXXCHATBOT",
+  "repository": "https://github.com/Samdaveloper/DAXXCHATBOT",
   "env": {
     "BOT_TOKEN": {
       "description": "A Bot token from @BotFather",
